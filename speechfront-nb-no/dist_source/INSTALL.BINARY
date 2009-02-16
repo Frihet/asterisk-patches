@@ -1,0 +1,8 @@
+To install, simply copy the files to the 'sounds' directory of
+Asterisk. In debian based installations this directory is placed in
+/usr/share/asterisk, and for source installs it is /var/lib/asterisk
+pr. default.
+
+If you wish to keep the defaults or have several sound installations,
+keep the nb_NO file structure and make the appropriate changes in
+say.conf.

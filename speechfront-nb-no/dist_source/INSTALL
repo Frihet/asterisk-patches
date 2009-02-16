@@ -1,0 +1,8 @@
+Theese are the source .wav files and are not intented for production.
+They are intended for transcoding to other formats only.
+
+To transcode to all available formats, install sox and ruby and run
+
+./compile.rb
+
+inside this directory (dist_source).
